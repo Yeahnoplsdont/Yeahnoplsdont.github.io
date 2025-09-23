@@ -1,6 +1,6 @@
 :root {
-  --primary-blue= #007BFF;
-  --primary-white= #FFFFFF;
+  --primary-blue: #007BFF;
+  --primary-white: #FFFFFF;
 }
 .top-layer {
   background-color: var(--primary-blue);
