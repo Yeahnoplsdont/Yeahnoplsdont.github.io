@@ -1,3 +1,13 @@
+.top-layer {
+  background-color: var (--primary-blue;)
+  padding: 50px;
+  color: white;
+}
+.second-layer {
+  background-color: white;
+  padding: 50px;
+}
+
 .Personal-header {
   width: 150px;
   height: 150px;
