@@ -7,7 +7,7 @@
 .top-layer {
   background-color: var(--primary-blue);
   padding: 50px;
-  color: white;
+  color: black;
 }
 .second-layer {
   background-color: #808080;
