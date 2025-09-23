@@ -13,6 +13,7 @@
 .second-layer {
   background-color: #808080;
   padding: 50px;
+  min-height: 100vh;
 }
 
 .Personal-header {
