@@ -3,7 +3,10 @@
   --primary-white: #FFFFFF;
   --primary-gray: #808080;
 }
-
+.buttons {
+  display:flex;
+  gap:15px;
+}
 .top-layer {
   background-color: var(--primary-blue);
   padding: 30px 20px;
