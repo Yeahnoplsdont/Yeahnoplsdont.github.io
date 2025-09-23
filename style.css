@@ -1,19 +1,19 @@
 :root {
   --primary-blue: #007BFF;
   --primary-white: #FFFFFF;
-  --primary-black: #000000;
+  --primary-gray: #808080;
 }
 
 .top-layer {
   background-color: var(--primary-blue);
-  padding: 50px;
+  padding: 30px 20px;
   color: white;
-  min-height: 100vh;
+  text-align:center;
 }
 .second-layer {
-  background-color: #808080;
-  padding: 50px;
-  min-height: 100vh;
+  background-color: var(--primary-gray);
+  flex-grow:1;
+  display:flex;
 }
 
 .Personal-header {
