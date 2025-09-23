@@ -1,10 +1,14 @@
+:root {
+  --primary-blue= "#007BFF";
+  --primary-white= "#FFFFFF"
+}
 .top-layer {
-  background-color: var (--primary-blue;)
+  background-color: var(--primary-blue);
   padding: 50px;
   color: white;
 }
 .second-layer {
-  background-color: white;
+  background-color: var(--primary-white);
   padding: 50px;
 }
 
